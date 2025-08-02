@@ -5,3 +5,5 @@ pkg upgrade-y
 pkg install git 
 pkg install python 
 git clone https://github.com/RKD-TEAM/Basic-Tool-Install
+cd Basic-Tool-Install
+python tool.py

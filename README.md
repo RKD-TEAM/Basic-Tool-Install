@@ -1,5 +1,6 @@
 # Basic-Tool-Install
 This Tool is a Very Simple Tool For Install Common Package 
+Command:
 pkg update-y 
 pkg upgrade-y 
 pkg install git 
